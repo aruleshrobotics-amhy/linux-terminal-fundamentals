@@ -13,11 +13,17 @@ Robotics & System Development mastery.
   Section               Command            What It Does                    Example
   --------------------- ------------------ ------------------------------- ----------------
   Show Current Folder   `pwd`              Prints your current directory   `pwd`
+  
   List Files            `ls`               Shows files & folders           `ls`
+  
   Detailed List         `ls -l`            Shows permissions & details     `ls -l`
+  
   Show Hidden Files     `ls -a`            Shows hidden files              `ls -a`
+  
   Change Folder         `cd folder_name`   Enter a folder                  `cd ros2_day1`
+  
   Go Back               `cd ..`            Go one level up                 `cd ..`
+  
   Go Home               `cd ~`             Go to home directory            `cd ~`
 
 ------------------------------------------------------------------------
@@ -27,6 +33,7 @@ Robotics & System Development mastery.
   ------------------------------------------------------------------------------
   Section          Command            What It Does           Example
   ---------------- ------------------ ---------------------- -------------------
+  
   Create Folder    `mkdir name`       Creates new directory  `mkdir ros2_day1`
 
   Create File      `touch file.txt`   Creates empty file     `touch test.txt`
